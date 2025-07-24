@@ -1,0 +1,1 @@
+cmd_/home/wangmingjie/develop/osc/ch2/simple/Module.symvers := sed 's/\.ko$$/\.o/' /home/wangmingjie/develop/osc/ch2/simple/modules.order | scripts/mod/modpost -m -a  -o /home/wangmingjie/develop/osc/ch2/simple/Module.symvers -e -i Module.symvers   -T -

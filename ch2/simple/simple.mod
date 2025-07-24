@@ -1,0 +1,2 @@
+/home/wangmingjie/develop/osc/ch2/simple/simple.o
+

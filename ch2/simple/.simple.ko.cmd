@@ -1,0 +1,1 @@
+cmd_/home/wangmingjie/develop/osc/ch2/simple/simple.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/wangmingjie/develop/osc/ch2/simple/simple.ko /home/wangmingjie/develop/osc/ch2/simple/simple.o /home/wangmingjie/develop/osc/ch2/simple/simple.mod.o;  true

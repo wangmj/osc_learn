@@ -1,0 +1,1 @@
+cmd_/home/wangmingjie/develop/osc/ch2/simple/modules.order := {   echo /home/wangmingjie/develop/osc/ch2/simple/simple.ko; :; } | awk '!x[$$0]++' - > /home/wangmingjie/develop/osc/ch2/simple/modules.order
